@@ -31,3 +31,7 @@ Currently, this tool supports text file classification and is set to expand to o
   - `transformers`
   - `pandas`
   - `PIL` (Pillow)
+
+## Install the dependencies using:
+```bash
+pip install -r requirements.txt
